@@ -1,0 +1,12 @@
+URL: https://jsonplaceholder.typicode.com/users/1
+Status Code: 200
+Response Data: {'id': 1, 'name': 'Novo Nome 1', 'username': 'novousername1', 'email': 'novoemail1@example.com'}
+==================================================
+URL: https://jsonplaceholder.typicode.com/users/2
+Status Code: 200
+Response Data: {'id': 2, 'name': 'Novo Nome 2', 'username': 'novousername2', 'email': 'novoemail2@example.com'}
+==================================================
+URL: https://jsonplaceholder.typicode.com/users/3
+Status Code: 200
+Response Data: {'id': 3, 'name': 'Novo Nome 3', 'username': 'novousername3', 'email': 'novoemail3@example.com'}
+==================================================

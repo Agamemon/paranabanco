@@ -1,0 +1,181 @@
+CT,Status,Identificador,Validador,Info
+1,PASSED,id,'id' field is present and has a int value,1
+,,name,'name' field is present and has a str value,Leanne Graham
+,,username,'username' field is present and has a str value,Bret
+,,email,'email' field is present and has a str value,Sincere@april.biz
+,,phone,'phone' field is present and has a str value,1-770-736-8031 x56442
+,,website,'website' field is present and has a str value,hildegard.org
+,,address,,
+,,street,'street' field is present and has a str value,Kulas Light
+,,suite,'suite' field is present and has a str value,Apt. 556
+,,city,'city' field is present and has a str value,Gwenborough
+,,zipcode,'zipcode' field is present and has a str value,92998-3874
+,,geo,,
+,,lat,'lat' field is present and has a str value,-37.3159
+,,lng,'lng' field is present and has a str value,81.1496
+,,company,,
+,,name,'name' field is present and has a str value,Romaguera-Crona
+,,catchPhrase,'catchPhrase' field is present and has a str value,Multi-layered client-server neural-net
+,,bs,'bs' field is present and has a str value,harness real-time e-markets
+2,PASSED,id,'id' field is present and has a int value,2
+,,name,'name' field is present and has a str value,Ervin Howell
+,,username,'username' field is present and has a str value,Antonette
+,,email,'email' field is present and has a str value,Shanna@melissa.tv
+,,phone,'phone' field is present and has a str value,010-692-6593 x09125
+,,website,'website' field is present and has a str value,anastasia.net
+,,address,,
+,,street,'street' field is present and has a str value,Victor Plains
+,,suite,'suite' field is present and has a str value,Suite 879
+,,city,'city' field is present and has a str value,Wisokyburgh
+,,zipcode,'zipcode' field is present and has a str value,90566-7771
+,,geo,,
+,,lat,'lat' field is present and has a str value,-43.9509
+,,lng,'lng' field is present and has a str value,-34.4618
+,,company,,
+,,name,'name' field is present and has a str value,Deckow-Crist
+,,catchPhrase,'catchPhrase' field is present and has a str value,Proactive didactic contingency
+,,bs,'bs' field is present and has a str value,synergize scalable supply-chains
+3,PASSED,id,'id' field is present and has a int value,3
+,,name,'name' field is present and has a str value,Clementine Bauch
+,,username,'username' field is present and has a str value,Samantha
+,,email,'email' field is present and has a str value,Nathan@yesenia.net
+,,phone,'phone' field is present and has a str value,1-463-123-4447
+,,website,'website' field is present and has a str value,ramiro.info
+,,address,,
+,,street,'street' field is present and has a str value,Douglas Extension
+,,suite,'suite' field is present and has a str value,Suite 847
+,,city,'city' field is present and has a str value,McKenziehaven
+,,zipcode,'zipcode' field is present and has a str value,59590-4157
+,,geo,,
+,,lat,'lat' field is present and has a str value,-68.6102
+,,lng,'lng' field is present and has a str value,-47.0653
+,,company,,
+,,name,'name' field is present and has a str value,Romaguera-Jacobson
+,,catchPhrase,'catchPhrase' field is present and has a str value,Face to face bifurcated interface
+,,bs,'bs' field is present and has a str value,e-enable strategic applications
+4,PASSED,id,'id' field is present and has a int value,4
+,,name,'name' field is present and has a str value,Patricia Lebsack
+,,username,'username' field is present and has a str value,Karianne
+,,email,'email' field is present and has a str value,Julianne.OConner@kory.org
+,,phone,'phone' field is present and has a str value,493-170-9623 x156
+,,website,'website' field is present and has a str value,kale.biz
+,,address,,
+,,street,'street' field is present and has a str value,Hoeger Mall
+,,suite,'suite' field is present and has a str value,Apt. 692
+,,city,'city' field is present and has a str value,South Elvis
+,,zipcode,'zipcode' field is present and has a str value,53919-4257
+,,geo,,
+,,lat,'lat' field is present and has a str value,29.4572
+,,lng,'lng' field is present and has a str value,-164.2990
+,,company,,
+,,name,'name' field is present and has a str value,Robel-Corkery
+,,catchPhrase,'catchPhrase' field is present and has a str value,Multi-tiered zero tolerance productivity
+,,bs,'bs' field is present and has a str value,transition cutting-edge web services
+5,PASSED,id,'id' field is present and has a int value,5
+,,name,'name' field is present and has a str value,Chelsey Dietrich
+,,username,'username' field is present and has a str value,Kamren
+,,email,'email' field is present and has a str value,Lucio_Hettinger@annie.ca
+,,phone,'phone' field is present and has a str value,(254)954-1289
+,,website,'website' field is present and has a str value,demarco.info
+,,address,,
+,,street,'street' field is present and has a str value,Skiles Walks
+,,suite,'suite' field is present and has a str value,Suite 351
+,,city,'city' field is present and has a str value,Roscoeview
+,,zipcode,'zipcode' field is present and has a str value,33263
+,,geo,,
+,,lat,'lat' field is present and has a str value,-31.8129
+,,lng,'lng' field is present and has a str value,62.5342
+,,company,,
+,,name,'name' field is present and has a str value,Keebler LLC
+,,catchPhrase,'catchPhrase' field is present and has a str value,User-centric fault-tolerant solution
+,,bs,'bs' field is present and has a str value,revolutionize end-to-end systems
+6,PASSED,id,'id' field is present and has a int value,6
+,,name,'name' field is present and has a str value,Mrs. Dennis Schulist
+,,username,'username' field is present and has a str value,Leopoldo_Corkery
+,,email,'email' field is present and has a str value,Karley_Dach@jasper.info
+,,phone,'phone' field is present and has a str value,1-477-935-8478 x6430
+,,website,'website' field is present and has a str value,ola.org
+,,address,,
+,,street,'street' field is present and has a str value,Norberto Crossing
+,,suite,'suite' field is present and has a str value,Apt. 950
+,,city,'city' field is present and has a str value,South Christy
+,,zipcode,'zipcode' field is present and has a str value,23505-1337
+,,geo,,
+,,lat,'lat' field is present and has a str value,-71.4197
+,,lng,'lng' field is present and has a str value,71.7478
+,,company,,
+,,name,'name' field is present and has a str value,Considine-Lockman
+,,catchPhrase,'catchPhrase' field is present and has a str value,Synchronised bottom-line interface
+,,bs,'bs' field is present and has a str value,e-enable innovative applications
+7,PASSED,id,'id' field is present and has a int value,7
+,,name,'name' field is present and has a str value,Kurtis Weissnat
+,,username,'username' field is present and has a str value,Elwyn.Skiles
+,,email,'email' field is present and has a str value,Telly.Hoeger@billy.biz
+,,phone,'phone' field is present and has a str value,210.067.6132
+,,website,'website' field is present and has a str value,elvis.io
+,,address,,
+,,street,'street' field is present and has a str value,Rex Trail
+,,suite,'suite' field is present and has a str value,Suite 280
+,,city,'city' field is present and has a str value,Howemouth
+,,zipcode,'zipcode' field is present and has a str value,58804-1099
+,,geo,,
+,,lat,'lat' field is present and has a str value,24.8918
+,,lng,'lng' field is present and has a str value,21.8984
+,,company,,
+,,name,'name' field is present and has a str value,Johns Group
+,,catchPhrase,'catchPhrase' field is present and has a str value,Configurable multimedia task-force
+,,bs,'bs' field is present and has a str value,generate enterprise e-tailers
+8,PASSED,id,'id' field is present and has a int value,8
+,,name,'name' field is present and has a str value,Nicholas Runolfsdottir V
+,,username,'username' field is present and has a str value,Maxime_Nienow
+,,email,'email' field is present and has a str value,Sherwood@rosamond.me
+,,phone,'phone' field is present and has a str value,586.493.6943 x140
+,,website,'website' field is present and has a str value,jacynthe.com
+,,address,,
+,,street,'street' field is present and has a str value,Ellsworth Summit
+,,suite,'suite' field is present and has a str value,Suite 729
+,,city,'city' field is present and has a str value,Aliyaview
+,,zipcode,'zipcode' field is present and has a str value,45169
+,,geo,,
+,,lat,'lat' field is present and has a str value,-14.3990
+,,lng,'lng' field is present and has a str value,-120.7677
+,,company,,
+,,name,'name' field is present and has a str value,Abernathy Group
+,,catchPhrase,'catchPhrase' field is present and has a str value,Implemented secondary concept
+,,bs,'bs' field is present and has a str value,e-enable extensible e-tailers
+9,PASSED,id,'id' field is present and has a int value,9
+,,name,'name' field is present and has a str value,Glenna Reichert
+,,username,'username' field is present and has a str value,Delphine
+,,email,'email' field is present and has a str value,Chaim_McDermott@dana.io
+,,phone,'phone' field is present and has a str value,(775)976-6794 x41206
+,,website,'website' field is present and has a str value,conrad.com
+,,address,,
+,,street,'street' field is present and has a str value,Dayna Park
+,,suite,'suite' field is present and has a str value,Suite 449
+,,city,'city' field is present and has a str value,Bartholomebury
+,,zipcode,'zipcode' field is present and has a str value,76495-3109
+,,geo,,
+,,lat,'lat' field is present and has a str value,24.6463
+,,lng,'lng' field is present and has a str value,-168.8889
+,,company,,
+,,name,'name' field is present and has a str value,Yost and Sons
+,,catchPhrase,'catchPhrase' field is present and has a str value,Switchable contextually-based project
+,,bs,'bs' field is present and has a str value,aggregate real-time technologies
+10,PASSED,id,'id' field is present and has a int value,10
+,,name,'name' field is present and has a str value,Clementina DuBuque
+,,username,'username' field is present and has a str value,Moriah.Stanton
+,,email,'email' field is present and has a str value,Rey.Padberg@karina.biz
+,,phone,'phone' field is present and has a str value,024-648-3804
+,,website,'website' field is present and has a str value,ambrose.net
+,,address,,
+,,street,'street' field is present and has a str value,Kattie Turnpike
+,,suite,'suite' field is present and has a str value,Suite 198
+,,city,'city' field is present and has a str value,Lebsackbury
+,,zipcode,'zipcode' field is present and has a str value,31428-2261
+,,geo,,
+,,lat,'lat' field is present and has a str value,-38.2386
+,,lng,'lng' field is present and has a str value,57.2232
+,,company,,
+,,name,'name' field is present and has a str value,Hoeger LLC
+,,catchPhrase,'catchPhrase' field is present and has a str value,Centralized empowering task-force
+,,bs,'bs' field is present and has a str value,target end-to-end models
