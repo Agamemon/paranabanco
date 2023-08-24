@@ -4,7 +4,7 @@
 
 O projeto Paraná Banco é um case técnico que consiste nos seguintes pontos:
 
- - Estruturação e escrita dos cenários de teste (Verificar arquivo na raiz "Cases Tech - Paraná Banco.pdf"
+ - Estruturação e escrita dos cenários de teste (Verificar arquivo na raiz "Cases Tech - Paraná Banco.pdf")
  - Cenários e validações das automações propostas.
  - Utilização de padrões de projeto para as automações
  - Estruturação do projeto
