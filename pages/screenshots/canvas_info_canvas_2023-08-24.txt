@@ -1,0 +1,5 @@
+Informações do Elemento Canvas:
+Tag: canvas
+ID: canvas
+Classe: 
+Estilo: border: 2px solid red;
